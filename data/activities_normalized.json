@@ -6486,5 +6486,31 @@
     "start_date_local": "2026-03-05T12:18:51",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-03-06",
+    "distance": 18253.330078125,
+    "elevation_gain": 138.0,
+    "id": "22085444666",
+    "moving_time": 3192.0,
+    "name": "Boston Heights Road Cycling",
+    "raw_activity_type": "road_biking",
+    "raw_type": "road_biking",
+    "start_date_local": "2026-03-06T15:37:16",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-06",
+    "distance": 18229.0390625,
+    "elevation_gain": 154.0,
+    "id": "22086011932",
+    "moving_time": 3954.0,
+    "name": "Walton Hills Road Cycling",
+    "raw_activity_type": "road_biking",
+    "raw_type": "road_biking",
+    "start_date_local": "2026-03-06T16:59:41",
+    "type": "Ride",
+    "year": 2026
   }
 ]

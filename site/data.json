@@ -4475,6 +4475,24 @@
       "type": "VirtualRide",
       "url": "https://connect.garmin.com/modern/activity/22072818420",
       "year": 2026
+    },
+    {
+      "date": "2026-03-06",
+      "hour": 15,
+      "name": "Boston Heights Road Cycling",
+      "subtype": "road_biking",
+      "type": "Ride",
+      "url": "https://connect.garmin.com/modern/activity/22085444666",
+      "year": 2026
+    },
+    {
+      "date": "2026-03-06",
+      "hour": 16,
+      "name": "Walton Hills Road Cycling",
+      "subtype": "road_biking",
+      "type": "Ride",
+      "url": "https://connect.garmin.com/modern/activity/22086011932",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -8575,6 +8593,18 @@
       }
     },
     "2026": {
+      "Ride": {
+        "2026-03-06": {
+          "activity_ids": [
+            "22085444666",
+            "22086011932"
+          ],
+          "count": 2,
+          "distance": 36482.369140625,
+          "elevation_gain": 292.0,
+          "moving_time": 7146.0
+        }
+      },
       "VirtualRide": {
         "2026-01-05": {
           "activity_ids": [
@@ -8836,7 +8866,7 @@
       }
     }
   },
-  "generated_at": "2026-03-06T15:37:54.051342+00:00",
+  "generated_at": "2026-03-07T15:23:54.171236+00:00",
   "other_bucket": "OtherSports",
   "repo": "elbelcho/git-sweaty-garmin",
   "source": "garmin",
