@@ -4493,6 +4493,15 @@
       "type": "Ride",
       "url": "https://connect.garmin.com/modern/activity/22086011932",
       "year": 2026
+    },
+    {
+      "date": "2026-03-09",
+      "hour": 15,
+      "name": "Cuyahoga Falls Road Cycling",
+      "subtype": "road_biking",
+      "type": "Ride",
+      "url": "https://connect.garmin.com/modern/activity/22119563307",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -8603,6 +8612,15 @@
           "distance": 36482.369140625,
           "elevation_gain": 292.0,
           "moving_time": 7146.0
+        },
+        "2026-03-09": {
+          "activity_ids": [
+            "22119563307"
+          ],
+          "count": 1,
+          "distance": 28427.830078125,
+          "elevation_gain": 208.0,
+          "moving_time": 5234.0
         }
       },
       "VirtualRide": {
@@ -8866,7 +8884,7 @@
       }
     }
   },
-  "generated_at": "2026-03-09T15:58:47.030616+00:00",
+  "generated_at": "2026-03-10T16:00:12.373465+00:00",
   "other_bucket": "OtherSports",
   "repo": "elbelcho/git-sweaty-garmin",
   "source": "garmin",
