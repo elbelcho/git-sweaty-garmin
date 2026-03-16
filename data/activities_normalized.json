@@ -6538,5 +6538,18 @@
     "start_date_local": "2026-03-13T12:01:03",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-03-15",
+    "distance": 11724.2197265625,
+    "elevation_gain": 143.0,
+    "id": "22187373227",
+    "moving_time": 1822.0,
+    "name": "Zwift - Pacer Group Ride with Bernie",
+    "raw_activity_type": "virtual_ride",
+    "raw_type": "virtual_ride",
+    "start_date_local": "2026-03-15T20:00:42",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
