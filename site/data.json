@@ -4520,6 +4520,15 @@
       "type": "VirtualRide",
       "url": "https://connect.garmin.com/modern/activity/22187373227",
       "year": 2026
+    },
+    {
+      "date": "2026-03-16",
+      "hour": 12,
+      "name": "Zwift - Waisted 8 in Watopia",
+      "subtype": "virtual_ride",
+      "type": "VirtualRide",
+      "url": "https://connect.garmin.com/modern/activity/22193875305",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -8916,11 +8925,20 @@
           "distance": 11724.2197265625,
           "elevation_gain": 143.0,
           "moving_time": 1822.0
+        },
+        "2026-03-16": {
+          "activity_ids": [
+            "22193875305"
+          ],
+          "count": 1,
+          "distance": 30881.7109375,
+          "elevation_gain": 144.0,
+          "moving_time": 3975.0
         }
       }
     }
   },
-  "generated_at": "2026-03-16T16:05:38.702793+00:00",
+  "generated_at": "2026-03-17T16:06:35.842915+00:00",
   "other_bucket": "OtherSports",
   "repo": "elbelcho/git-sweaty-garmin",
   "source": "garmin",
