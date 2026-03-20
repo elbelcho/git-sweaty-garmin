@@ -6564,5 +6564,18 @@
     "start_date_local": "2026-03-16T12:07:17",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-03-19",
+    "distance": 20935.58984375,
+    "elevation_gain": 154.0,
+    "id": "22231883725",
+    "moving_time": 3435.7879638671875,
+    "name": "Cuyahoga Falls Road Cycling",
+    "raw_activity_type": "road_biking",
+    "raw_type": "road_biking",
+    "start_date_local": "2026-03-19T17:23:10",
+    "type": "Ride",
+    "year": 2026
   }
 ]
